@@ -25,5 +25,5 @@ Hi, I'm Sam (aka Curiomac Engine), a passionate Full Stack Developer with a stro
 - **Game Development** & **Arduino**
 
 ## Connect with Me!
-- 💼 [LinkedIn](#)
-- 🎥 [YouTube Channel - Samuel Aslakson](#)
+- 💼 [LinkedIn] - (https://www.linkedin.com/in/sam-binu-125b42256/)
+- 📄 [Porfolio] - (https://portfolio-sam-binu.netlify.app/)
